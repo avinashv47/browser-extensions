@@ -1,0 +1,22 @@
+.container {
+    width: 150px;
+    margin: 1%;
+    padding: 1%;
+}
+
+#colorPicker {
+    margin-bottom: 10%;
+}
+
+#selectedColor {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.btn-text {
+    display: none;
+}
+
+.show {
+    display: inline;
+}
